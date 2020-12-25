@@ -1,0 +1,17 @@
+Package: precipmodeling
+Type: Package
+Title: Modeling Precipitation Data for Advanced R Programming class
+Version: 0.1.0
+Author: Ivana
+Maintainer: The package maintainer <xkazi003@studenti.czu.cz>
+Description: Package for easier wrangling of precipitation data provided in Advanced R Programmind course
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Dependencies: data.table,
+              rgdal,
+              sp,
+              raster,
+              ncdf4,
+              ggplot2
+RoxygenNote: 7.1.0
