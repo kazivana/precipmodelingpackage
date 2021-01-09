@@ -5,6 +5,7 @@
 #' @return data.table with date, id, precipitation, lon, lat and climate model columns
 #' @export getPrecipDF
 #'
+#'
 #' @examples
 #'
 #' \dontrun{

@@ -5,6 +5,7 @@
 #' @return RasterBrick of all precipitation values in a single file
 #' @export allprecip
 #'
+#'
 #' @examples
 #'
 #'

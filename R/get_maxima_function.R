@@ -3,7 +3,7 @@
 #' @param dta data.table including the fields date (datum) and p (precipitation in kg/s)
 #' @param a number of intervals to aggregate over in hours
 #'
-#' @return ata.table with year, aggregation and maxima
+#' @return data.table with year, aggregation and maxima
 #' @export getMX
 #'
 #' @examples

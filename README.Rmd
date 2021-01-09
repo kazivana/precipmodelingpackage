@@ -1,0 +1,33 @@
+---
+title: "The Precip Modeling Package"
+output: github_document
+---
+
+## Package for Advanced R Programming class with precipitation data and functions 
+
+## Dependencies include data.table, rgdal, sp, raster, ncdf4 and ggplot2
+
+```{r}
+
+library(data.table)
+library(rgdal)
+library(sp)
+library(raster)
+library(ncdf4)
+library(ggplot2)
+
+
+```
+
+
+## Installation
+
+
+```{r, eval=FALSE}
+
+devtools::install_github("https://github.com/kazivana/precipmodeling.git")
+
+```
+
+
+## Use cases for functions

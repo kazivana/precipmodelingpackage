@@ -6,6 +6,7 @@
 #' @return plot of precipitation values with CZ spatial polygon inside
 #' @export singleprecip
 #'
+#'
 #' @examples
 #'
 #'  \dontrun{

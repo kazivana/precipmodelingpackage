@@ -4,12 +4,12 @@
 \alias{ddff}
 \title{Function for turning the file into a data.table showing precip depth in hourly intervals wit specific frequencies}
 \usage{
-ddff(dt, freq)
+ddff(dt, frequency)
 }
 \arguments{
 \item{dt}{data.table including the fields date (datum) and p (precipitation in kg/s)}
 
-\item{freq}{the frequency to apply to the calculation}
+\item{frequency}{frequency with which to split the data}
 }
 \value{
 data.table of precipitation depth split into durations on basis of hour (D1, D2, D3, D6, D12, D24) and specified frequencies

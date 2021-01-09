@@ -12,7 +12,7 @@ getMX(dta, a = 1)
 \item{a}{number of intervals to aggregate over in hours}
 }
 \value{
-ata.table with year, aggregation and maxima
+data.table with year, aggregation and maxima
 }
 \description{
 Get annual maxima from data.table
